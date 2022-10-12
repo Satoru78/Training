@@ -1,0 +1,38 @@
+﻿<Window x:Class="PercentCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PercentCalculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="400">
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <StackPanel Orientation="Horizontal">
+            <TextBlock FontSize="18" Text="Изначальная сумма:"></TextBlock>
+                <TextBox Margin="40,0,0,0"  Name="txbStartSumm" Width="150" ></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,15,0,0">
+                <TextBlock FontSize="18" Text="Процентная ставка (%):"></TextBlock>
+                <TextBox  Margin="16,0,0,0" Name="txbPercent" Width="150"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,15,0,0">
+                <TextBlock FontSize="18" Text="Количество лет:"></TextBlock>
+                <TextBox Margin="77,0,0,0"  Name="txbYears" Width="150"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,15,0,0">
+                <TextBlock FontSize="18" Text="Процесс начисления:"></TextBlock>
+                <ComboBox Margin="31,0,0,0" Name="cmbProcess" Width="150" SelectedIndex="0">
+                    <ComboBoxItem>Ежедневно</ComboBoxItem>
+                    <ComboBoxItem>Ежемесячно</ComboBoxItem>
+                    <ComboBoxItem>Ежегодно</ComboBoxItem>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,15,0,0">
+                <TextBlock FontSize="18" Text="Итого:"></TextBlock>
+                <TextBox  Margin="154,0,0,0" Name="txbResult" IsEnabled="False" Width="150"></TextBox>
+            </StackPanel>
+            <Button Content="Рассчитать" Name="btnResult" Click="btnResult_Click" Margin="0,10,0,0"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

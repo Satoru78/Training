@@ -1,0 +1,15 @@
+C:\Users\obaka\source\repos\PercentCalculator\PercentCalculator\bin\Debug\PercentCalculator.exe.config
+C:\Users\obaka\source\repos\PercentCalculator\PercentCalculator\bin\Debug\PercentCalculator.exe
+C:\Users\obaka\source\repos\PercentCalculator\PercentCalculator\bin\Debug\PercentCalculator.pdb
+C:\Users\obaka\source\repos\PercentCalculator\PercentCalculator\obj\Debug\PercentCalculator.csproj.AssemblyReference.cache
+C:\Users\obaka\source\repos\PercentCalculator\PercentCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\obaka\source\repos\PercentCalculator\PercentCalculator\obj\Debug\App.g.cs
+C:\Users\obaka\source\repos\PercentCalculator\PercentCalculator\obj\Debug\PercentCalculator_MarkupCompile.cache
+C:\Users\obaka\source\repos\PercentCalculator\PercentCalculator\obj\Debug\PercentCalculator_MarkupCompile.lref
+C:\Users\obaka\source\repos\PercentCalculator\PercentCalculator\obj\Debug\MainWindow.baml
+C:\Users\obaka\source\repos\PercentCalculator\PercentCalculator\obj\Debug\PercentCalculator.g.resources
+C:\Users\obaka\source\repos\PercentCalculator\PercentCalculator\obj\Debug\PercentCalculator.Properties.Resources.resources
+C:\Users\obaka\source\repos\PercentCalculator\PercentCalculator\obj\Debug\PercentCalculator.csproj.GenerateResource.cache
+C:\Users\obaka\source\repos\PercentCalculator\PercentCalculator\obj\Debug\PercentCalculator.csproj.CoreCompileInputs.cache
+C:\Users\obaka\source\repos\PercentCalculator\PercentCalculator\obj\Debug\PercentCalculator.exe
+C:\Users\obaka\source\repos\PercentCalculator\PercentCalculator\obj\Debug\PercentCalculator.pdb
